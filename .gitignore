@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Distribution & Build
+client/dist/
+*.exe
+
+# Storage & DB
+backend/sales_bot.db
+backend/recordings/*.webm
+
+# Logs
+*.log
+.system_generated/
+
+# Environment
+.env
