@@ -137,7 +137,3 @@ When **"End Call"** is clicked:
 4. All data is persisted into the **SQLite database** and instantly accessible in the **Call History** tab.
 
 ---
-
-## 🎥 Video Submission Script
-
-See [DEMO_SCRIPT.md](file:///f:/Sankar_AIAgent/DEMO_SCRIPT.md) for a complete, timing-annotated script designed to help you record the **video explanation** requested in the assignment submission!
